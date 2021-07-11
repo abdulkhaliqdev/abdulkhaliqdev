@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ak-devil&label=Profile%20views&color=0e75b6&style=flat" alt="ak-devil" /> </p>
 
-<p align="left"> <a href="https://twitter.com/abdulkh99672072" target="blank"><img src="https://img.shields.io/twitter/follow/abdulkh99672072?logo=twitter&style=for-the-badge" alt="abdulkh99672072" /></a> </p>
+<p align="left"> <a href="https://twitter.com/abdulkhaliqdev" target="blank"><img src="https://img.shields.io/twitter/follow/abdulkhaliqdev?logo=twitter&style=for-the-badge" alt="abdulkhaliqdev" /></a> </p>
 
 - 📫 How to reach me **abdulkhaliql1f18bscs0159@gmail.com**
 
