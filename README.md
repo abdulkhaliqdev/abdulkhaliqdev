@@ -15,12 +15,6 @@
 <a href="https://linkedin.com/in/abdul-khaliq-89452b1a9" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="abdul-khaliq-89452b1a9" height="30" width="40" /></a>
 </p>
 
-<h3 align="center">
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=abdulkhaliqdev&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-  
-</h3>
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
  <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
